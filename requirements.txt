@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+flake8
+pytest
+pandas
